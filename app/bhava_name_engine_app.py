@@ -11,7 +11,7 @@ st.title("🔮 Bhāva Name Engine")
 
 # Load and show Bhāva dataset
 st.subheader("📖 Bhāva Glossary")
-with open("bhava_dataset.json", encoding="utf-8") as f:
+with open("app/bhava_dataset.json", encoding="utf-8") as f:
     bhava_data = json.load(f)
 
 df = pd.DataFrame(bhava_data)
