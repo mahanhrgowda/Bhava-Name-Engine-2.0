@@ -1,5 +1,6 @@
+from utils import format_name
+
 def suggest_names_for_bhava(bhava):
-    # Sample name suggestions based on Bhāva
     bhava_name_map = {
         "Ratiḥ": ["Madhav", "Preeti", "Rama", "Milan"],
         "Hāsaḥ": ["Hasan", "Harsha", "Hasi", "Haasya"],
@@ -11,4 +12,4 @@ def suggest_names_for_bhava(bhava):
         "Vismayaḥ": ["Vishal", "Vikas", "Vaibhav", "Vinay"],
         "Śamaḥ": ["Samir", "Samar", "Sanya", "Shaant"]
     }
-    return bhava_name_map.get(bhava, ["No suggestions available"])
+    return [format_name(name) for name in bhava_name_map.get(bhava, ["No suggestions available"])]
