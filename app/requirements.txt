@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+emoji
