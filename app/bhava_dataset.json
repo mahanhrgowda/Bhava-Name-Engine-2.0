@@ -1,0 +1,56 @@
+[
+  {
+    "bhava": "Ratiḥ",
+    "meaning": "Love, Attraction",
+    "rasa": "Śṛṅgāra",
+    "rasa_emoji": "💗"
+  },
+  {
+    "bhava": "Hāsaḥ",
+    "meaning": "Laughter",
+    "rasa": "Hāsya",
+    "rasa_emoji": "😂"
+  },
+  {
+    "bhava": "Śokaḥ",
+    "meaning": "Sorrow",
+    "rasa": "Karuṇā",
+    "rasa_emoji": "💧"
+  },
+  {
+    "bhava": "Krodhaḥ",
+    "meaning": "Anger",
+    "rasa": "Raudra",
+    "rasa_emoji": "🔥"
+  },
+  {
+    "bhava": "Utsāhaḥ",
+    "meaning": "Enthusiasm",
+    "rasa": "Vīra",
+    "rasa_emoji": "⚔️"
+  },
+  {
+    "bhava": "Bhayaṁ",
+    "meaning": "Fear",
+    "rasa": "Bhayānaka",
+    "rasa_emoji": "😱"
+  },
+  {
+    "bhava": "Jugupsā",
+    "meaning": "Disgust, Aversion",
+    "rasa": "Bībhatsa",
+    "rasa_emoji": "🤢"
+  },
+  {
+    "bhava": "Vismayaḥ",
+    "meaning": "Wonder",
+    "rasa": "Adbhuta",
+    "rasa_emoji": "🌈"
+  },
+  {
+    "bhava": "Śamaḥ",
+    "meaning": "Peace, Equanimity",
+    "rasa": "Śānta",
+    "rasa_emoji": "🕊️"
+  }
+]
